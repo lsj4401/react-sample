@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/problem-solving-view.iml
+.idea/workspace.xml
+.idea/inspectionProfiles/Project_Default.xml
